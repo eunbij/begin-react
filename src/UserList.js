@@ -12,7 +12,7 @@ function UserList() {
   const users = [
     {
       id: 1,
-      username: 'velopert',
+      username: 'test',
       email: 'public.velopert@gmail.com'
     },
     {
